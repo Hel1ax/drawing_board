@@ -1,0 +1,15 @@
+/* text.css */
+.konva-textarea {
+    position: absolute;
+    width: auto;
+    height: auto;
+    border: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background: none;
+    outline: none;
+    resize: none;
+    transform-origin: left top;
+  }
+  
